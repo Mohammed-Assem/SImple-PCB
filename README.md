@@ -17,13 +17,13 @@ A simple KiCad project that includes a battery-powered LED circuit with three pu
 ## 🖼️ Screenshots
 
 ### Schematic  
-![Schematic](images/Screenshot 2025-06-03 221312.png)
+![Schematic](images/Schematic.png)
 
 ### PCB Layout  
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](images/PCB_Layout.png)
 
 ### 3D View  
-![3D View](images/3d_view.png)
+![3D View](images/3D_design.png)
 
 ## 💬 Slack Username
 `@Mohammed-Assem`
