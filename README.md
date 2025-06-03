@@ -26,7 +26,7 @@ A simple KiCad project that includes a battery-powered LED circuit with three pu
 ![3D View](images/3D_design.png)
 
 ## 💬 Slack Username
-`@Mohammed-Assem`
+`@Mohamed Assem`
 
 ---
 
